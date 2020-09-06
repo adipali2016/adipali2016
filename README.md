@@ -4,7 +4,9 @@ I am a web-devoloper by passion. I love to work with hardwares too. I integrate 
 
 Skills: REACT / JS / HTML / CSS / FRONT-END
 
+- 🔭 I’m currently working on React.js 
 - 🌱 I’m currently learning Python Programming 
+- 👯 I’m looking to collaborate on React Projects 
 - 💬 Ask me about Frontend-Devolopment , C++, Java 
 - ⚡ Fun fact: I may look a little mad, but I am more... 
 
