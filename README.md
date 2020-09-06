@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [ E-mail](http://adipali2016@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am little mad, maybe more
+
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adipali2016)](https://github.com/anuraghazra/github-readme-stats)
