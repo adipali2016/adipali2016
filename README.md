@@ -1,17 +1,17 @@
-### Hello there I'm Aditya 👋
+### Hi there 👋, I'm Aditya
+#### Devolopment is Love
+I am a web-devoloper by passion. I love to work with hardwares too. I integrate hardware with software, which gives me a great new technology.
 
-<!--
-**adipali2016/adipali2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / FRONT-END
 
-- 🔭 I’m currently working on ... React Project
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate ... on Web-Development Projects
-- 🤔 I’m looking for help with ... Python
-- 💬 Ask me about ... Anything, always eager to learn.
-- 📫 How to reach me: ... [ E-mail](http://adipali2016@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am little mad, maybe more
+- 🌱 I’m currently learning Python Programming 
+- 💬 Ask me about Frontend-Devolopment , C++, Java 
+- ⚡ Fun fact: I may look a little mad, but I am more... 
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adipali2016)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adipali2016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-paliwal-608b621a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/engineering_bhaau/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adipali2016)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adipali2016&show_icons=true)  
+
