@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ... Anything, always eager to learn.
 - 📫 How to reach me: ... [ E-mail](http://adipali2016@gmail.com)
-- 😄 Pronouns: 
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am little mad, maybe more
 -->
