@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Aditya
 #### Devolopment is Love
-I am a web-devoloper by passion. I love to work with hardwares too. I integrate hardware with software, which gives me a great new technology.
+The way my repositories look, you can expect the same from me. Yes a lot of coding.....
 
 Skills: REACT / JS / HTML / CSS / FRONT-END
 
-- 🔭 I’m currently working on React.js 
+- 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning Python Programming 
-- 👯 I’m looking to collaborate on React Projects 
+- 👯 I’m looking to collaborate on Web-dev Projects 
 - 💬 Ask me about Frontend-Devolopment , C++, Java 
-- ⚡ Fun fact: I may look a little mad, but I am more... 
+- ⚡ Fun fact: I may look a 'little' mad, but I am more... 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adipali2016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-paliwal-608b621a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/engineering_bhaau/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adipali2016)  
