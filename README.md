@@ -4,10 +4,10 @@ The way my repositories look, you can expect the same from me. Yes a lot of codi
 
 Skills: REACT / JS / HTML / CSS / FRONT-END / PYTHON / JAVA / C++ 
 
-- 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning Python Programming 
+- 🔭 I’m currently working on Python, Octave 
+- 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Web-dev Projects 
-- 💬 Ask me about Frontend-Devolopment , C++, Java 
+- 💬 Ask me about Frontend-Devolopment , C++, Java, Python 
 - ⚡ Fun fact: I may look a 'little' mad, but I am more... 
 
 
