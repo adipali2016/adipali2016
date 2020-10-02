@@ -2,7 +2,7 @@
 #### Devolopment is Love
 The way my repositories look, you can expect the same from me. Yes a lot of coding.....
 
-Skills: REACT / JS / HTML / CSS / FRONT-END
+Skills: REACT / JS / HTML / CSS / FRONT-END / PYTHON / JAVA / C++ 
 
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning Python Programming 
