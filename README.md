@@ -50,8 +50,8 @@
 
 <p align="center">
 <a href="https://github.com/the-ayush-singh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=the-ayush-singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=the-ayush-singh&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adipali2016&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adipali2016&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="center">
@@ -60,30 +60,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Aditya-paliwal-ind/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adipali2016)<a href="https://dev.to/theayushsingh">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Singh's DEV Community Profile" height="30" width="30">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Aditya-paliwal-ind/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adipali2016)<a href="https://dev.to/adipali2016">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Paliwal's DEV Community Profile" height="30" width="30">
 </a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/engineering_bhaau/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adipali2016) 
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-
-
-### Hi there 👋, I'm Aditya
-#### Devolopment is Love
-The way my repositories look, you can expect the same from me. Yes a lot of coding.....
-
-Skills: REACT / JS / HTML / CSS / FRONT-END / PYTHON / JAVA / C++ 
-
-- 🔭 I’m currently working on Python, Octave 
-- 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate on Web-dev Projects 
-- 💬 Ask me about Frontend-Devolopment , C++, Java, Python 
-- ⚡ Fun fact: I may look a 'little' mad, but I am more... 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>] 
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adipali2016&show_icons=true)  
 
