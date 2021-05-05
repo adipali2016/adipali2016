@@ -3,7 +3,7 @@
 <h3 align="center">Electronics and Communication Engineering</h3>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=the-ayush-singh&color=blueviolet&style=flat">
+   <img src="https://komarev.com/ghpvc/?username=adipali2016&color=blueviolet&style=flat">
 </p>
 
 
