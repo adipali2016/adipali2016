@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://github.com/adipali2016">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adipali2016&theme=blue-green"/>
-  <img height="180em" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=adipali2016&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipali2016&theme=blue-green"/>
 </a>
 </p>
 <p align="center">
