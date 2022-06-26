@@ -7,10 +7,9 @@
 </p>
 
 
-- 🔭 I’m currently working on Python, Octave 
-- 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate on Web-dev Projects 
-- 💬 Ask me about Frontend-Devolopment , C++, Java, Python  
+- 🔭 I’m currently working on Machine learning and Deep learning through Python. 
+- 🌱 I’m currently learning NLP
+- 👯 I’m looking to collaborate on Machine learning Projects.  
 
 ### 🛠 &nbsp;Languages and Tools
 
